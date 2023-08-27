@@ -5,3 +5,5 @@ This is basically a static website using HTML,CSS,Javascript.While creating the 
 
 
 ![bg-food](https://github.com/Pallab-18/Foodin/assets/99742232/08e0f5b6-d7d7-4a24-8e68-363fe69da508)
+
+![about](https://github.com/Pallab-18/Foodin/assets/99742232/8b772cbd-c046-4b6d-a032-6e37af663f64)
