@@ -10,5 +10,3 @@ This is basically a static website using HTML,CSS,Javascript.While creating the 
 
 ![menu](https://github.com/Pallab-18/Foodin/assets/99742232/00b1830e-95ed-4c77-838c-e85850da475d)
 
-
-![menu](https://github.com/Pallab-18/Foodin/assets/99742232/b9c33dba-58f8-4479-b166-de8a5c1b1885)
