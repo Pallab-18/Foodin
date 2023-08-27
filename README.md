@@ -14,3 +14,4 @@ This is basically a static website using HTML,CSS,Javascript.While creating the 
 
 ![testi](https://github.com/Pallab-18/Foodin/assets/99742232/a9f90311-6efd-4bfa-9477-364e70705449)
 
+![contact](https://github.com/Pallab-18/Foodin/assets/99742232/e0819e97-03cb-4fe2-871c-c8b73d24b8ad)
